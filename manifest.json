@@ -1,0 +1,10 @@
+{    "name":"calci",
+    "version":"1.1.2",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"quotes.png"
+    },
+    "permissions":["activeTab"]
+
+}
